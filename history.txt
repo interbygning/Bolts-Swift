@@ -105,3 +105,4 @@
 2025-07-01 16:58:26 remove legacy code
 2025-06-15 17:42:56 remove test code
 2025-10-15 22:47:23 fix encoding issue
+2025-12-06 13:21:19 fix config bug
